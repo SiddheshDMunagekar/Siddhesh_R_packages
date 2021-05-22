@@ -1,0 +1,14 @@
+name: Shiny
+title: Shiny
+username:
+account: siddhesh14
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4079133
+bundleId: 4557399
+url: https://siddhesh14.shinyapps.io/Shiny/
+when: 1620161475.37551
+lastSyncTime: 1620161475.37551
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/countries.csv|data/indicators.csv|data/wdi_data.csv|data/world-bank.R
