@@ -1,0 +1,14 @@
+name: shinymysqlsid
+title: shinymysqlsid
+username:
+account: siddhesh14
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4162239
+bundleId: 4626705
+url: https://siddhesh14.shinyapps.io/shinymysqlsid/
+when: 1621659496.88288
+lastSyncTime: 1621659496.88288
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R SHINY developer - excercise.docx
